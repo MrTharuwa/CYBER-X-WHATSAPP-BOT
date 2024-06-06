@@ -11,7 +11,7 @@
     },
     "author": "darkalphaxteam",
     "dependencies": {
-        "@whiskeysockets/baileys": "git+https://github.com/darkalphaxteam/Baileys-New.git",
+        "@whiskeysockets/baileys": "6.6.0",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper-images" : "^1.0.2",
         "@blackamda/telegram-image-url" : "^1.0.0",
@@ -65,10 +65,10 @@
     },
     "repository": {
          "type": "git",
-         "url": "git+https://github.com/Tharusha69/CYBER-X-WHATSAPP-BOT"
+         "url": "git+https://github.com/MrTharuwa/CYBER-X-WHATSAPP-BOT"
     },
     "bugs": {
-         "url": "https://github.com/Tharusha69/CYBER-X-WHATSAPP-BOT"
+         "url": "https://github.com/MrTharuwa/CYBER-X-WHATSAPP-BOT"
     },
-  "homepage": "https://github.com/Tharusha69/CYBER-X-WHATSAPP-BOT"
+  "homepage": "https://github.com/MrTharuwa/CYBER-X-WHATSAPP-BOT"
 }
